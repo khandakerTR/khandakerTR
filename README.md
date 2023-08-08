@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working as Jr. iOS Developer<br>👯 I’m looking to collaborate on <br>🤝 I’m looking for help with iOS Development <br>🌱 Strong expertise in <ul><li><b>Swift</b></li> 
-<li><b>UIKit</b>b></li>
+<li><b>UIKit</b></li>
 <li><b>StoryBoard</b>b></li>
 <li><b>REST API</b>b></li>
 <li><b>AVFoundation</b>b></li>
