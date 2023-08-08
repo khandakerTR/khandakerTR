@@ -1,15 +1,17 @@
 # 💫 About Me:
-🔭 I’m currently working as Jr. iOS Developer<br>👯 I’m looking to collaborate on <br>🤝 I’m looking for help with iOS Development <br>🌱 Strong expertise in <ul><li><b>Swift</b></li> 
+🔭 I’m currently working as Jr. iOS Developer<br>👯 I’m looking to collaborate on <br>🤝 I’m looking for help with iOS Development <br>⚡ Strong expertise in 
+<ul><li><b>Swift</b></li> 
 <li><b>UIKit</b></li>
-<li><b>StoryBoard</b>b></li>
-<li><b>REST API</b>b></li>
-<li><b>AVFoundation</b>b></li>
-<li><b>CoreAnimation</b>b></li>
-<li><b>CoreData</b>b></li>
-<li><b>Firebase</b>b></li>
-<li><b>Bug Fixing & Reduce Memory Issue</b>b></li>
-<li><b>3rd Party Libraries</b>b></li>
-</ul>💬 Ask me about 🤫<br>⚡ Fun fact 🙄
+<li><b>StoryBoard</b></li>
+<li><b>REST API</b></li>
+<li><b>AVFoundation</b></li>
+<li><b>CIFilter</b></li>
+<li><b>CoreAnimation</b></li>
+<li><b>CoreData</b></li>
+<li><b>Firebase</b></li>
+<li><b>Bug Fixing & Reduce Memory Issue</b></li>
+<li><b>3rd Party Libraries</b></li>
+</ul>
 
 
 ## 🌐 Socials:
